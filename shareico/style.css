@@ -1,0 +1,64 @@
+@font-face {
+	font-family: 'shareicon';
+	src:url('fonts/shareicon.eot?603mju');
+	src:url('fonts/shareicon.eot?#iefix603mju') format('embedded-opentype'),
+		url('fonts/shareicon.woff?603mju') format('woff'),
+		url('fonts/shareicon.ttf?603mju') format('truetype'),
+		url('fonts/shareicon.svg?603mju#shareicon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="s-"], [class*=" s-"] {
+	font-family: 'shareicon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.s-qq:before {
+	content: "\e60a";
+}
+.s-pyq:before {
+	content: "\e600";
+}
+.s-baidu:before {
+	content: "\e601";
+}
+.s-douban:before {
+	content: "\e602";
+}
+.s-kaixin:before {
+	content: "\e603";
+}
+.s-miliao:before {
+	content: "\e60b";
+}
+.s-pengyou:before {
+	content: "\e60c";
+}
+.s-qzone:before {
+	content: "\e604";
+}
+.s-renren:before {
+	content: "\e605";
+}
+.s-taobao:before {
+	content: "\e606";
+}
+.s-txwb:before {
+	content: "\e607";
+}
+.s-weibo:before {
+	content: "\e608";
+}
+.s-weixin:before {
+	content: "\e609";
+}
